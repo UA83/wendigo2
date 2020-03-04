@@ -9,6 +9,7 @@ public class FriendlyMessage {
     public FriendlyMessage() {
     }
 
+    // test
     public FriendlyMessage(String text, String name, String photoUrl) {
         this.text = text;
         this.name = name;
